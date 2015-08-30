@@ -1,0 +1,3 @@
+debian,apt-get
+ubuntu,apt-get
+centos,yum
